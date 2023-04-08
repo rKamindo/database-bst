@@ -1,14 +1,3 @@
-/*
-Name: <Randy Kamindo>
-ID: E02691297
-Assignment Number: <Program 3>
-COSC 311 - Winter 2023
-*/
-
-/*  OPTION 2:
-    This program implements the database using a double threaded binary search tree.
-    There is NO recursion.
- */
 import database.DataBase;
 
 import java.io.File;

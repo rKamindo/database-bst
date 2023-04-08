@@ -1,9 +1,3 @@
-/*Name: <Randy Kamindo>
-ID: E02691297
-Assignment Number: <Program 2>
-COSC 311 - Winter 2023
- */
-
 package index;
 
 import java.util.Objects;
